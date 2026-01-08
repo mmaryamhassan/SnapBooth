@@ -30,7 +30,7 @@ SnapBooth is a fun and aesthetic **web-based camera app** built with React that 
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Follow these steps to run SnapBooth locally:
 
