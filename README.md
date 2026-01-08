@@ -28,6 +28,30 @@ SnapBooth is a fun and aesthetic **web-based camera app** built with React that 
 - **Notifications:** react-toastify
 - **Version Control:** Git & GitHub
 
+---
+
+🚀 Getting Started
+
+Follow these steps to run SnapBooth locally:
+1️⃣ Clone the repository
+git clone https://github.com/mmaryamhassan/SnapBooth.git
+2️⃣ Navigate to the project folder
+cd SnapBooth
+3️⃣ Install dependencies
+npm install
+4️⃣ Start the development server
+npm run dev
+
+The app will run at:
+
+http://localhost:5173
+
+🌐 Live Demo: 
+
+---
+
 Design and built by: Maryiam Hassan
+
 LinkedIn: https://www.linkedin.com/in/maryiam-hassan-67595228b/
+
 gmail: mmaryamhassann1@gmail.com
